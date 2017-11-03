@@ -1,13 +1,243 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64ce88d6-85d7-4649-b41b-71baae6c8705" name="Default" comment="" />
+    <list default="true" id="64ce88d6-85d7-4649-b41b-71baae6c8705" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halo_slideshow/slideshow1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halo_slideshow/slideshow1_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halo_slideshow/slideshow1_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halo_slideshow/slideshow1_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halo_slideshow/slideshow2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halo_slideshow/slideshow2_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halo_slideshow/slideshow2_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halothemes/halothemes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/wysiwyg/homepage_advertisement.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/wysiwyg/paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/images/bg_direction_nav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/font/droidsans.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/font/droidsans.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/font/droidsans.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bg_direction_nav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg-bottom-img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg-bottom-slide.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg-title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg-toolbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg-top-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg_divider1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg_rating.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg_sp-methods.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/boder-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/btn-controlNav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/btn-slide.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/btn-tags-block.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/btn_edit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/btn_remove.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/btn_window_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/dot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/fam_book_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/furniture.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/halo_filterproduct/bkg_nextprevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_asc_arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_availability_only_arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_breadcrumbs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_desc_arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_links.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_msg-error.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_msg-note.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_msg-success.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_msg-success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_notice.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_print.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_rss.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_tick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/icon_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/magnifier_handle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/404_callout1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/404_callout2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/about_us_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/best_selling_img01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/best_selling_img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/best_selling_img03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/best_selling_img04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/best_selling_img05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/best_selling_img06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/cell_phone_landing_banner1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/col_left_callout.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/col_right_callout.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/electronics_cellphones.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/electronics_digitalcameras.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/electronics_laptops.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/furniture_callout_spot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/furnitures_bed_room.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/furnitures_living_room.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/head_electronics_cellphones.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/head_electronics_digicamera.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/head_electronics_laptops.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/laptop_callout_mid1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/laptop_callout_mid2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/laptop_callout_mid3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/laptop_callout_spot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/left-banner-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/left-banner-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/shirts_landing_banner1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/opc-ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/opc-edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/pager_arrow_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/pager_arrow_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/slider_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/slider_btn_zoom_in.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/slider_btn_zoom_out.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/top-cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/validation_advice_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/vertical_menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/black/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/black/pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/black/play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/black/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/rev_tail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/tail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Filterproducts/Block/List.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Filterproducts/Helper/Data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Filterproducts/etc/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Filterproducts/etc/widget.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Filterproducts/sql/filterproducts_setup/mysql4-install-0.0.1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/Block/Adminhtml/System/Config/Form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/Block/Cart/Crosssell.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/Haloebajessettings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/Helper/Data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/etc/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/etc/system.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Block/Chooser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Block/Content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Block/Create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Block/Hidden.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Block/Media.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Block/Widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Helper/Data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Model/Widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/controllers/Admin/ChooserController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/controllers/WidgetController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/etc/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/etc/widget.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/adminhtml/default/default/layout/halo_slideshow.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/adminhtml/default/default/template/ebajessettings/form.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/adminhtml/default/default/template/halo_slideshow/grid.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/adminhtml/default/default/template/halo_slideshow/hidden.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/adminhtml/default/default/template/halo_slideshow/uploader.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/catalog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/checkout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/cms.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/customer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/directory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/halo_filterproduct.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/halo_slideshow.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/newsletter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/page.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/wishlist.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/locale/en_US/translate.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/category/view.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/list/related.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/list/toolbar.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/list/upsell.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/view.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/view/addto.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/view/description.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/view/media.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/checkout/cart/crosssell.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/checkout/cart/item/default.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/checkout/cart/sidebar.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/cms/content_home_tab.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/directory/currency.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/ev_slideshow/slides.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/best_seller_home.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/featured_products_home.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/grid.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/new_products_home.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/onsale_products.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_slideshow/slideshow.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/1column.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/2columns-left.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/2columns-right.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/3columns.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/html/footer.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/html/head.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/html/header.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/template/links.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/etc/modules/HALO_Filterproducts.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/etc/modules/HALO_Haloebajessettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/etc/modules/HALO_Slideshow.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/install-ebajes.phps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/install.lib.php.sample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/halo/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Varien/Data/Form/Element/Slideshowhidden.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Varien/Data/Form/Element/Textslideshow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/adminhtml/default/default/halo_slideshow/slideshow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/adminhtml/default/default/halo_slideshow/slideshow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/flexslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/halo_filterproduct/halo_filterproduct.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/oauth-simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/styles-ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/font/droidsans.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/js/ebajes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/js/halo_filterproduct/halo_filterproduct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/js/jquery-ui-1.8.9.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/js/jquery.flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/nivo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/js/jquery.nivo.slider.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HALO_Slideshow.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/etc/modules/HALO_Slideshow.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -22,6 +252,7 @@
     <option name="width" value="1390" />
     <option name="height" value="806" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -56,6 +287,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -78,12 +314,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509703520373</updated>
-      <workItem from="1509703521734" duration="314000" />
+      <workItem from="1509703521734" duration="1079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="314000" />
+    <option name="totallyTimeSpent" value="1079000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1617" height="1062" extended-state="6" />
@@ -93,9 +329,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8064865" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -116,5 +352,23 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/etc/modules/HALO_Slideshow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
