@@ -1,0 +1,13 @@
+.product-image {
+	display: flex !important;
+	align-items: center !important;
+	justify-content: center !important;
+}
+
+.form-list .name-middlename {
+	width: 160px !important;
+}
+
+.form-list .name-middlename input.input-text {
+	width: 147px;
+}

@@ -1,1 +1,4 @@
 var/
+.idea/
+media/catalog/product/cache
+.idea/workspace.xml

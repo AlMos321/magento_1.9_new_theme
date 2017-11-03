@@ -2,202 +2,169 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64ce88d6-85d7-4649-b41b-71baae6c8705" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halo_slideshow/slideshow1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halo_slideshow/slideshow1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halo_slideshow/slideshow1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halo_slideshow/slideshow1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halo_slideshow/slideshow2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halo_slideshow/slideshow2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halo_slideshow/slideshow2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/halothemes/halothemes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/wysiwyg/homepage_advertisement.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/wysiwyg/paypal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/images/bg_direction_nav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/font/droidsans.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/font/droidsans.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/font/droidsans.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bg_direction_nav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg-bottom-img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg-bottom-slide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg-footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg-title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg-toolbar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg-top-footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg_divider1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg_rating.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/bkg_sp-methods.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/boder-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/btn-controlNav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/btn-slide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/btn-tags-block.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/btn_edit.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/btn_remove.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/btn_window_close.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/fam_book_open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/furniture.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/halo_filterproduct/bkg_nextprevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_asc_arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_availability_only_arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_breadcrumbs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_desc_arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_links.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_msg-error.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_msg-note.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_msg-success.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_msg-success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_notice.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_print.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_rss.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/i_tick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/icon_search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/magnifier_handle.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/404_callout1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/404_callout2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/about_us_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/best_selling_img01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/best_selling_img02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/best_selling_img03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/best_selling_img04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/best_selling_img05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/best_selling_img06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/cell_phone_landing_banner1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/col_left_callout.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/col_right_callout.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/electronics_cellphones.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/electronics_digitalcameras.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/electronics_laptops.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/furniture_callout_spot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/furnitures_bed_room.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/furnitures_living_room.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/head_electronics_cellphones.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/head_electronics_digicamera.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/head_electronics_laptops.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/laptop_callout_mid1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/laptop_callout_mid2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/laptop_callout_mid3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/laptop_callout_spot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/left-banner-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/left-banner-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media/shirts_landing_banner1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/opc-ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/opc-edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/pager_arrow_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/pager_arrow_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/slider_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/slider_btn_zoom_in.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/slider_btn_zoom_out.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/top-cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/validation_advice_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/vertical_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/black/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/black/pause.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/black/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/black/prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/pause.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/rev_tail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/assets/tail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Filterproducts/Block/List.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Filterproducts/Helper/Data.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Filterproducts/etc/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Filterproducts/etc/widget.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Filterproducts/sql/filterproducts_setup/mysql4-install-0.0.1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/Block/Adminhtml/System/Config/Form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/Block/Cart/Crosssell.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/Haloebajessettings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/Helper/Data.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/etc/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/etc/system.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Block/Chooser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Block/Content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Block/Create.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Block/Hidden.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Block/Media.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Block/Widget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Helper/Data.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/Model/Widget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/controllers/Admin/ChooserController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/controllers/WidgetController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/etc/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/HALO/Slideshow/etc/widget.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/adminhtml/default/default/layout/halo_slideshow.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/adminhtml/default/default/template/ebajessettings/form.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/adminhtml/default/default/template/halo_slideshow/grid.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/adminhtml/default/default/template/halo_slideshow/hidden.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/adminhtml/default/default/template/halo_slideshow/uploader.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/catalog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/checkout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/cms.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/customer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/directory.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/halo_filterproduct.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/halo_slideshow.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/newsletter.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/page.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/wishlist.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/locale/en_US/translate.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/category/view.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/list/related.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/list/toolbar.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/list/upsell.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/view.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/view/addto.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/view/description.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/catalog/product/view/media.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/checkout/cart/crosssell.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/checkout/cart/item/default.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/checkout/cart/sidebar.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/directory/currency.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/ev_slideshow/slides.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/best_seller_home.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/featured_products_home.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/grid.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/new_products_home.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/onsale_products.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_slideshow/slideshow.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/1column.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/2columns-left.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/2columns-right.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/3columns.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/html/footer.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/html/head.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/html/header.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/template/links.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/etc/modules/HALO_Filterproducts.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/etc/modules/HALO_Haloebajessettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/etc/modules/HALO_Slideshow.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/install-ebajes.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/install.lib.php.sample" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/halo/jquery-1.8.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Varien/Data/Form/Element/Slideshowhidden.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Varien/Data/Form/Element/Textslideshow.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/adminhtml/default/default/halo_slideshow/slideshow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/adminhtml/default/default/halo_slideshow/slideshow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/flexslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/halo_filterproduct/halo_filterproduct.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/oauth-simple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/styles-ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/font/droidsans.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/js/ebajes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/js/halo_filterproduct/halo_filterproduct.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/js/jquery-ui-1.8.9.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/js/jquery.flexslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/css/nivo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/slideshow/js/jquery.nivo.slider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/session/sess_i8h0q15gt2kcql3rs953fo17d6" afterPath="$PROJECT_DIR$/var/session/sess_i8h0q15gt2kcql3rs953fo17d6" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/cms/content_home_tab.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/cms/content_home_tab.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/base/default/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/ET_Currencymanager.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/ET_IpSecurity.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/ET_PaymentRobokassa.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/ET_Reviewnotify.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/ET_RussianLanguagePack.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Find_Feed.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_AdminNotification.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Adminhtml.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_AmazonPayments.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Api.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Api2.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Authorizenet.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Backup.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Bundle.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Captcha.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Catalog.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_CatalogInventory.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_CatalogRule.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_CatalogSearch.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Centinel.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Checkout.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Cms.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Compiler.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_ConfigurableSwatches.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Connect.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Contacts.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Core.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Cron.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_CurrencySymbol.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Customer.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Dataflow.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Directory.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Downloadable.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Eav.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_GiftMessage.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_GoogleAnalytics.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_GoogleBase.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_GoogleCheckout.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_GoogleOptimizer.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_ImportExport.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Index.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Install.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Log.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Media.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Newsletter.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Oauth.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Page.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_PageCache.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Paygate.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Payment.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Paypal.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_PaypalUk.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Persistent.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Poll.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_ProductAlert.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Rating.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Reports.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Review.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Rss.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Rule.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Sales.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_SalesRule.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Sendfriend.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Shipping.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Sitemap.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Tag.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Tax.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Usa.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Weee.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Widget.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_Wishlist.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Mage_XmlConnect.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/Phoenix_Moneybookers.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/account_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/account_new_confirmation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/account_new_confirmed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/account_password_reset_confirmation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/admin_password_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/admin_password_reset_confirmation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/contact_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/currency_update_warning.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/et_ipsecurity.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/et_ipsecurity_admin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/et_ipsecurity_ipsecuritytoken.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/et_ipsecurity_ipsecuritytoken_fail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/et_reviewnotify.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/log_clean_warning.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/moneybookers_activateemail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/newsletter_subscr_confirm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/newsletter_subscr_success.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/newsletter_unsub_success.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/password_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/payment_failed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/product_alert_cron_error.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/product_price_alert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/product_share.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/product_stock_alert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/creditmemo_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/creditmemo_new_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/creditmemo_update.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/creditmemo_update_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/invoice_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/invoice_new_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/invoice_update.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/invoice_update_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/order_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/order_new_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/order_update.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/order_update_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/shipment_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/shipment_new_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/shipment_update.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/shipment_update_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/sitemap_generate_warning.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/token.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/template/email/wishlist_share.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/account_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/account_new_confirmation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/account_new_confirmed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/account_password_reset_confirmation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/admin_password_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/admin_password_reset_confirmation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/contact_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/currency_update_warning.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/html/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/html/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/log_clean_warning.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/moneybookers_activateemail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/newsletter_subscr_confirm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/newsletter_subscr_success.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/newsletter_unsub_success.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/password_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/payment_failed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/product_alert_cron_error.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/product_price_alert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/product_share.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/product_stock_alert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/creditmemo_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/creditmemo_new_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/creditmemo_update.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/creditmemo_update_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/invoice_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/invoice_new_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/invoice_update.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/invoice_update_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/order_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/order_new_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/order_update.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/order_update_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/shipment_new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/shipment_new_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/shipment_update.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sales/shipment_update_guest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/sitemap_generate_warning.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/token.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/locale/ru_RU/templates_1910/email/wishlist_share.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/css/custom.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/logo.png" afterPath="$PROJECT_DIR$/skin/frontend/ebajes/default/images/_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/catalog.xml" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/catalog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/page.xml" afterPath="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/page.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -208,91 +175,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Data.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/Helper/Data.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content_home_tab.phtml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="content_home_tab.phtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/template/cms/content_home_tab.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="57" lean-forward="true" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            <state relative-caret-position="15">
+              <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="best_seller_home.phtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/best_seller_home.phtml">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skin/frontend/ebajes/default/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="62" lean-forward="true" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+            <state relative-caret-position="180">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new_products_home.phtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/new_products_home.phtml">
+      <file leaf-file-name="Mage_Catalog.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/locale/ru_RU/Mage_Catalog.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            <state relative-caret-position="278">
+              <caret line="394" column="11" lean-forward="true" selection-start-line="394" selection-start-column="11" selection-end-line="394" selection-end-column="73" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="featured_products_home.phtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/featured_products_home.phtml">
+      <file leaf-file-name="catalog.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/catalog.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            <state relative-caret-position="279">
+              <caret line="57" column="16" lean-forward="false" selection-start-line="57" selection-start-column="16" selection-end-line="58" selection-end-column="168" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cms.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/cms.xml">
+      <file leaf-file-name="catalog.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/catalog.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="126" column="42" lean-forward="false" selection-start-line="126" selection-start-column="32" selection-end-line="126" selection-end-column="42" />
+            <state relative-caret-position="403">
+              <caret line="65" column="14" lean-forward="true" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Abstract.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Core/Block/Abstract.php">
+      <file leaf-file-name="page.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/page.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="634" column="39" lean-forward="false" selection-start-line="634" selection-start-column="17" selection-end-line="634" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="List.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/community/HALO/Filterproducts/Block/List.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="141" column="47" lean-forward="true" selection-start-line="141" selection-start-column="47" selection-end-line="141" selection-end-column="47" />
+            <state relative-caret-position="1059">
+              <caret line="145" column="88" lean-forward="false" selection-start-line="145" selection-start-column="88" selection-end-line="145" selection-end-column="88" />
               <folding />
             </state>
           </provider>
@@ -305,14 +242,21 @@
       <find>ebajes_new_products_home_tab</find>
       <find>new</find>
       <find>New Products</find>
-      <find>featured</find>
       <find>ebajes_featured_products_home_tab</find>
       <find>setBlockId</find>
       <find>Мужские</find>
+      <find>featured</find>
+      <find>Home Page</find>
+      <find>&lt;action method=&quot;addCss&quot;&gt;</find>
+      <find>Обрати внимание на наши товары специального предложения Снова в Школу и СЭКОНОМЬ!</find>
+      <find>eyes open for our special Back to School items and save A LOT!</find>
+      <find>ages/media/col_right_callout</find>
     </findStrings>
     <dirStrings>
-      <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/app/code/community/HALO</dir>
+      <dir>$PROJECT_DIR$/app/design/frontend/ebajes</dir>
+      <dir>$PROJECT_DIR$/app/design/frontend</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -321,8 +265,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/cms/content_home_tab.phtml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/page.xml" />
+        <option value="$PROJECT_DIR$/skin/frontend/ebajes/default/css/custom.css" />
+        <option value="$PROJECT_DIR$/app/design/frontend/base/default/layout/catalog.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/catalog.xml" />
       </list>
     </option>
   </component>
@@ -371,34 +319,25 @@
             <path>
               <item name="mesh.net" type="b2602c69:ProjectViewProjectNode" />
               <item name="mesh.net" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="skin" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="mesh.net" type="b2602c69:ProjectViewProjectNode" />
               <item name="mesh.net" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="mesh.net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mesh.net" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="skin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="mesh.net" type="b2602c69:ProjectViewProjectNode" />
               <item name="mesh.net" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="skin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="ebajes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="mesh.net" type="b2602c69:ProjectViewProjectNode" />
               <item name="mesh.net" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="skin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="ebajes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
@@ -406,45 +345,11 @@
             <path>
               <item name="mesh.net" type="b2602c69:ProjectViewProjectNode" />
               <item name="mesh.net" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="skin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="ebajes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="mesh.net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mesh.net" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ebajes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="cms" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="mesh.net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mesh.net" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ebajes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="halo_filterproducts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="mesh.net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mesh.net" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ebajes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="page" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -458,7 +363,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/skin/frontend/ebajes/default/images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/skin/frontend/ebajes/default/images/media" />
+      <recent name="$PROJECT_DIR$/skin/frontend/base/default/images" />
+      <recent name="$PROJECT_DIR$/app/locale" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -484,18 +395,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509703520373</updated>
-      <workItem from="1509703521734" duration="7237000" />
+      <workItem from="1509703521734" duration="10494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7237000" />
+    <option name="totallyTimeSpent" value="10494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1615" height="1054" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26577437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36010197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -587,22 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/Helper/Data.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Core/Block/Abstract.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -622,15 +516,7 @@
     <entry file="file://$PROJECT_DIR$/app/code/community/HALO/Filterproducts/Block/List.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
-          <caret line="141" column="47" lean-forward="true" selection-start-line="141" selection-start-column="47" selection-end-line="141" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/new_products_home.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <caret line="141" column="47" lean-forward="false" selection-start-line="141" selection-start-column="47" selection-end-line="141" selection-end-column="47" />
           <folding />
         </state>
       </provider>
@@ -643,18 +529,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/HALO/Haloebajessettings/Helper/Data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/new_products_home.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/template/halo_filterproducts/best_seller_home.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="62" lean-forward="true" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+        <state relative-caret-position="135">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/order_new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/template/cms/content_home_tab.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="57" lean-forward="true" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        <state relative-caret-position="15">
+          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1059">
+          <caret line="145" column="88" lean-forward="false" selection-start-line="145" selection-start-column="88" selection-end-line="145" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/ebajes/default/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/locale/ru_RU/Mage_Catalog.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="394" column="11" lean-forward="true" selection-start-line="394" selection-start-column="11" selection-end-line="394" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/catalog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="57" column="16" lean-forward="false" selection-start-line="57" selection-start-column="16" selection-end-line="58" selection-end-column="168" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/catalog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="65" column="14" lean-forward="true" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
           <folding />
         </state>
       </provider>
