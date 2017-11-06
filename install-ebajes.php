@@ -5,15 +5,19 @@
 ################################################################################
 
 $dbhost = "localhost";	# Database host name
-$dbname = "ebajes"; # Database name
+$dbname = "grid"; # Database name
 $dbuser = "root"; # Database username
-$dbpass = ""; # Database password
+$dbpass = "111"; # Database password
 $dbport = ""; # Database port
 $adminuser = 'admin'; // magento admin username
 $adminpass = ''; // magento admin password
 $prefix = ""; // Database prefix tables
 
+//phpinfo(); exit;
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
 
+$_SERVER['MAGE_IS_DEVELOPER_MODE'] = true;
 
 ################################################################################
 ### DO NOT EDIT BELOW

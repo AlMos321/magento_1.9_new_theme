@@ -10,6 +10,9 @@
             <slideshow>
                 <class>HALO_Slideshow_Helper</class>
             </slideshow>
+            <testhelper>
+                <class>HALO_Slideshow_Helper</class>
+            </testhelper>
         </helpers>
         <blocks>
              <slideshow>
@@ -30,6 +33,15 @@
                 </slideshow>
             </updates>
         </layout>
+        <routers>
+            <tester>
+                <use>standard</use>
+                <args>
+                    <module>HALO_Slideshow</module>
+                    <frontName>tester</frontName>
+                </args>
+            </tester>
+        </routers>
     </frontend>
     <adminhtml>
         <translate>
